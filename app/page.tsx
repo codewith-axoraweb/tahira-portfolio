@@ -87,11 +87,11 @@ export default function HomePage() {
               </div>
 
               <div className="flex gap-4">
-                <Button size="icon" variant="ghost" asChild>
+                {/* <Button size="icon" variant="ghost" asChild>
                   <Link href="https://Youtube.com" target="_blank">
                     <Youtube className="h-5 w-5" />
                   </Link>
-                </Button>
+                </Button> */}
                 <Button size="icon" variant="ghost" asChild>
                   <Link
                     href="https://www.linkedin.com/in/tahira-batool-b47b60402?utm_source=share_via&utm_content=profile&utm_medium=member_android"

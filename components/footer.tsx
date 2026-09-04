@@ -29,11 +29,11 @@ export function Footer() {
                   <Linkedin className="h-4 w-4" />
                 </Link>
               </Button>
-              <Button size="icon" variant="ghost" asChild>
+              {/* <Button size="icon" variant="ghost" asChild>
                 <Link href="https://twitter.com" target="_blank">
                   <Youtube className="h-4 w-4" />
                 </Link>
-              </Button>
+              </Button> */}
               <Button size="icon" variant="ghost" asChild>
                 <Link href="mailto: baatooltahira786@gmail.com  ">
                   <Mail className="h-4 w-4" />
