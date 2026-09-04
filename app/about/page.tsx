@@ -98,7 +98,7 @@ export default function AboutPage() {
         <section className="text-center mb-16">
           <div className="relative w-40 h-40 mx-auto mb-6">
             <Image
-              src="/alina-dp.jpeg"
+              src="/alina-dp.png"
               alt="TAHIRA BATOOL"
               fill
               className="rounded-full border-4 border-primary/30 object-cover object-top"
